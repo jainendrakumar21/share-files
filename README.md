@@ -1,1 +1,1 @@
-# share-files repo for shatong files
+# share-files repo for sharing files
