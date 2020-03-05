@@ -1,4 +1,3 @@
-use jpa;
 create table Customer(
 	customer_id int not NULL unique,
     name varchar(20),
